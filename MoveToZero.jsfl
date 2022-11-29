@@ -1,0 +1,1 @@
+﻿//// MoveToZero//// This command was recorded by Adobe Animate.//// Align: left, truefl.getDocumentDOM().align('left', true);// Align: top, truefl.getDocumentDOM().align('top', true);

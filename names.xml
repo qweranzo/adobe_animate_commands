@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Commands>
+  <name source="Copy Motion as XML" target="Copy Motion as XML"></name>
+  <name source="Export Motion XML" target="Export Motion XML"></name>
+  <name source="Import Motion XML" target="Import Motion XML"></name>
+  <name source="Copy Font Name for ActionScript" target="Copy Font Name for ActionScript"></name>
+  <name source="Publish for CreateJS" target="Publish for CreateJS"></name>
+  <name source="Convert To Other Document Formats" target="Convert To Other Document Formats"></name>
+  <name source="Export as Projector" target="Export as Projector"></name>
+</Commands>

@@ -1,0 +1,1 @@
+﻿//// Alpha_100//// This command was recorded by Adobe Animate.//// Instance Alpha: 100%fl.getDocumentDOM().setInstanceAlpha(100);

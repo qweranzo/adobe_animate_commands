@@ -1,0 +1,19 @@
+<dialog title="Movie clips to bitmaps" buttons="accept, cancel">
+	<vbox>
+		<label value="Instance name of movie clip" />
+        <textbox id="mc_name" value="to_bitmap"/>
+        <separator/> 
+        <label value="Upscale factor"/>
+        <textbox id="scale" value="1.5" size="3"/>
+        <separator/>
+        <label value="extension"/>
+        <radiogroup id="extension">
+            <radio id="png" label="png"/>
+            <radio id="jpg" selected="true" label="jpg"/>
+        </radiogroup>
+        <separator/>
+        <label value="UNDO?"/>
+        <checkbox id="undo" checked="false"/>
+        <separator/> 
+	</vbox>
+</dialog>

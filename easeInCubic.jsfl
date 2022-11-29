@@ -1,0 +1,1 @@
+﻿//// easeInCubic//// This command was recorded by Adobe Animate.//// Frame Property: easeType, 5, 3, 0fl.getDocumentDOM().getTimeline().setFrameProperty('easeType', 5, 3, 0);
